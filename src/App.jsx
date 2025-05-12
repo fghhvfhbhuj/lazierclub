@@ -26,7 +26,7 @@ export default function App() {
 
       {/* 主视觉区域 */}
       <section className="text-center py-16 px-4 max-w-3xl mx-auto">
-      <img src={logo} alt="LazierClub Logo" className="w-28 h-28 mx-auto mb-6 bg-transparent rounded-full" />
+        <img src={logo} alt="LazierClub Logo" className="w-28 h-28 mx-auto mb-6 bg-transparent rounded-full" />
 
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">工作更懒，创造更酷</h1>
         <p className="text-white text-base md:text-lg leading-relaxed">
